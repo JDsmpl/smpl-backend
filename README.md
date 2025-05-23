@@ -1,6 +1,6 @@
 # Transaction Processor
 
-A Python library for processing financial transaction files (CSV, Excel) and normalizing them into a consistent format. Hello
+A Python library for processing financial transaction files (CSV, Excel) and normalizing them into a consistent format.
 
 ## Installation
 
