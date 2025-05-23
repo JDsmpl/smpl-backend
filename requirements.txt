@@ -1,0 +1,9 @@
+pandas>=2.0.0
+python-dateutil>=2.8.2
+numpy>=1.24.0
+openpyxl>=3.1.0  # For Excel support
+pdfplumber>=0.9.0  # For PDF support
+python-magic>=0.4.27  # For file type detection
+python-dateparser>=1.1.8  # For flexible date parsing
+unidecode>=1.3.7  # For better text normalization
+loguru>=0.7.2  # For better logging
